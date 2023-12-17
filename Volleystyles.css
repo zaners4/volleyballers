@@ -1,0 +1,15 @@
+.homebackground{
+    background-color: lightblue;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ol{
+    font-size: medium;
+}
+li{
+    color: darkolivegreen;
+}
+ul{
+    font-style: italic;
+}
